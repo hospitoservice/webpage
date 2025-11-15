@@ -6,7 +6,7 @@
 }
 
 .contact-container {
-  max-width: 1200px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 0 1.5rem;
   position: relative;
@@ -48,7 +48,7 @@
 
 .contact-content {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   gap: 3rem;
   margin-top: 2rem;
 }
@@ -136,7 +136,7 @@
 
 .social-links {
   display: flex;
-  gap: 1rem;
+  gap: 0rem;
   margin-top: 2.5rem;
 }
 

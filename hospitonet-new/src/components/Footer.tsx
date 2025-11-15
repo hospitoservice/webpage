@@ -55,7 +55,7 @@ const Footer: React.FC = () => {
     },
     {
       icon: <WhatsAppIcon />,
-      url: 'https://wa.me/8269709625',
+      url: 'https://wa.me/919798047291',
       label: 'WhatsApp',
     },
   ];
@@ -66,7 +66,7 @@ const Footer: React.FC = () => {
         <div className="footer-content">
           <div className="footer-section">
             <div className="footer-logo">
-              <Logo height={40} />
+              <Logo height={100} />
             </div>
             <p className="footer-description">
               Transforming healthcare through innovative technology solutions that connect hospitals, doctors, and patients for better healthcare experiences.
@@ -129,18 +129,18 @@ const Footer: React.FC = () => {
             <address className="contact-info">
               <div className="contact-item">
                 <LocationOnIcon className="contact-icon" />
-                <span>123 Healthcare St, Medical District, City, Country</span>
+                <p>Varthur Bangalore, Karnataka, India</p>
               </div>
               <div className="contact-item">
                 <EmailIcon className="contact-icon" />
-                <a href="mailto:info@hospitonet.com" className="contact-link">
-                  info@hospitonet.com
+                <a href="mailto:contact@hospitonet.com" className="contact-link">
+                  contact@hospitonet.com
                 </a>
               </div>
               <div className="contact-item">
                 <PhoneIcon className="contact-icon" />
-                <a href="tel:+15551234567" className="contact-link">
-                  +1 (555) 123-4567
+                <a href="tel:+91-9798047291" className="contact-link">
+                  +91-9798047291
                 </a>
               </div>
             </address>

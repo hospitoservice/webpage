@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-scroll';
-import logo from '../asset/hospitonetLogo.jpeg';
+import logo from '../asset/hospitonetLogoPng.png';
 
 interface LogoProps {
   className?: string;

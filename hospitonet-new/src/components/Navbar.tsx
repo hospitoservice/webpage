@@ -39,7 +39,7 @@ const Navbar: React.FC = () => {
   return (
     <nav className={scrolled ? 'navbar scrolled' : 'navbar'}>
       <div className="navbar-container">
-        <Logo onClick={closeMobileMenu} />
+        {/*<Logo onClick={closeMobileMenu} />*/}
         <div className="menu-icon" onClick={handleClick} aria-label="Menu">
           {click ? (
             <CloseIcon style={{ fontSize: '2rem' }} />
