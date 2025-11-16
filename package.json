@@ -1,6 +1,6 @@
 {
-  "homepage": "http://hospitoservice.github.io/website/",
-  "name": "website",
+  "homepage": "http://hospitoservice.github.io/webpage/",
+  "name": "webpage",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
