@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.7c691725.css",
+    "main.js": "/website/static/js/main.3fd394bf.js",
+    "static/js/453.7db5e9a0.chunk.js": "/website/static/js/453.7db5e9a0.chunk.js",
+    "static/media/hospitonetLogoPng.png": "/website/static/media/hospitonetLogoPng.b93c605a91aeef462c67.png",
+    "index.html": "/website/index.html",
+    "main.7c691725.css.map": "/website/static/css/main.7c691725.css.map",
+    "main.3fd394bf.js.map": "/website/static/js/main.3fd394bf.js.map",
+    "453.7db5e9a0.chunk.js.map": "/website/static/js/453.7db5e9a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c691725.css",
+    "static/js/main.3fd394bf.js"
+  ]
+}
