@@ -15,7 +15,7 @@ const App: React.FC = () => {
         <Navbar />
         <main>
           <Routes>
-            <Route path="/webpage" element={
+            <Route path="/" element={
               <>
                 <HeroSection />
                 <AboutSection />
