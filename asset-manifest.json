@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/webpage/static/css/main.7c691725.css",
-    "main.js": "/webpage/static/js/main.1b54f6c0.js",
-    "static/js/453.c2c8e198.chunk.js": "/webpage/static/js/453.c2c8e198.chunk.js",
-    "static/media/hospitonetLogoPng.png": "/webpage/static/media/hospitonetLogoPng.b93c605a91aeef462c67.png",
-    "index.html": "/webpage/index.html",
-    "main.7c691725.css.map": "/webpage/static/css/main.7c691725.css.map",
-    "main.1b54f6c0.js.map": "/webpage/static/js/main.1b54f6c0.js.map",
-    "453.c2c8e198.chunk.js.map": "/webpage/static/js/453.c2c8e198.chunk.js.map"
+    "main.css": "./static/css/main.7c691725.css",
+    "main.js": "./static/js/main.bc312bc2.js",
+    "static/js/453.c2c8e198.chunk.js": "./static/js/453.c2c8e198.chunk.js",
+    "static/media/hospitonetLogoPng.png": "./static/media/hospitonetLogoPng.b93c605a91aeef462c67.png",
+    "index.html": "./index.html",
+    "main.7c691725.css.map": "./static/css/main.7c691725.css.map",
+    "main.bc312bc2.js.map": "./static/js/main.bc312bc2.js.map",
+    "453.c2c8e198.chunk.js.map": "./static/js/453.c2c8e198.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c691725.css",
-    "static/js/main.1b54f6c0.js"
+    "static/js/main.bc312bc2.js"
   ]
 }
