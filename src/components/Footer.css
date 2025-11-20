@@ -313,7 +313,7 @@
   
   .footer-section {
     text-align: center;
-    padding: 1.5rem;
+    padding: 15px;
     margin-bottom: 1rem;
   }
   
@@ -401,7 +401,7 @@
   }
   
   .footer-section {
-    padding: 0;
+    padding: 15px;
   }
   }
 

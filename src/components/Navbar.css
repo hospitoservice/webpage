@@ -33,7 +33,7 @@
 }
 
 .logo-link {
-  display: flex;
+  display: block;
   align-items: center;
   text-decoration: none;
   transition: transform 0.3s ease, opacity 0.3s ease;
@@ -135,7 +135,7 @@
 @media screen and (max-width: 960px) {
   .navbar {
     height: 80px;
-    padding: 0 1rem;
+    padding: 0px;
   }
 
   .navbar.scrolled {
